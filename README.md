@@ -2,13 +2,15 @@
 
 C++ Playground
 =================
+
+![alt text](https://github.com/glennlopez/Cpp-Playground/blob/master/C++%20Primer.png?raw=true "C++ Logo")
+
 <b>Note: </b>This is a temporary repo. https://github.com/glennlopez/Cpp.Playground is currently having DMCA takedown issue. I will automate mirroring everything to this repo for the meantime. 
 
 This is where I keep all my non project related C++ source codes. Its a simple repo for documenting my progress, all my trials and tribulations with C++. Explore it, review it, and comment if you have suggestions for improvements. Criticism is welcomed.
 
-<!--
-![alt text](https://s-media-cache-ak0.pinimg.com/736x/a6/64/bf/a664bfae939ac4da62d6783442e560ee.jpg "C++ Logo")
--->
+
+
 
 >C++ is a general-purpose programming language. It has imperative, object-oriented and generic programming features, while also providing facilities for low-level memory manipulation. It was designed with a bias toward system programming and embedded, resource-constrained and large systems, with performance, efficiency and flexibility of use as its design highlights..
 
