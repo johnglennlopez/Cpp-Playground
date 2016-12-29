@@ -6,7 +6,6 @@ C++ Playground
 <b>Note: </b>This is a temporary repo. https://github.com/glennlopez/Cpp.Playground is currently having DMCA takedown issue. I will automate mirroring everything to this repo for the meantime. 
 
 ![alt text](https://github.com/glennlopez/Cpp-Playground/blob/master/C++%20Primer.png?raw=true "C++ Logo")
->StegoShare above photo
 
 This is where I keep all my non project related C++ source codes. Its a simple repo for documenting my progress, all my trials and tribulations with C++. Explore it, review it, and comment if you have suggestions for improvements. Criticism is welcomed.
 
